@@ -30,13 +30,6 @@ This project is a sentiment analysis chatbot designed to engage users in convers
    pip install -r requirements.txt
    ```
 
-3. Run the application:
-   ```bash
-   python app.py
-   ```
-
-4. Open your browser and navigate to `http://localhost:5000` to interact with the chatbot.
-
 ## Usage
 
 - Start a conversation by typing your message in the chat interface.
